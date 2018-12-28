@@ -1,0 +1,13 @@
+*.log
+cache
+cui_*
+old
+paint
+replay
+logs
+lapfiles
+telemetry
+screenshots
+videos
+setups/*/VRS_*
+setups/*/VRS-*
