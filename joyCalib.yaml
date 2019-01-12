@@ -1,6 +1,32 @@
 ---
 CalibrationInfo:
  DeviceList:
+ - DeviceName: 'Thrustmaster T300RS Racing Wheel'
+   InstanceGUID: '{D9470FF0-12BE-11E9-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32737
+     CalibMax: 65535
+ - DeviceName: 'FANATEC CSL Elite Pedals LC'
+   InstanceGUID: '{6828DCC0-12C0-11E9-8003-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4095
+   - Axis: 1
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Z Axis'
+     CalibMin: 16
+     CalibCenter: 16
+     CalibMax: 4095
  - DeviceName: 'Ferrari F1 Wheel Advanced T300'
    InstanceGUID: '{753318E0-7C36-11E6-8001-444553540000}'
    AxisList:

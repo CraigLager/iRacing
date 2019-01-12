@@ -16,8 +16,8 @@ CalibrationInfo:
      CalibMax: 65535
    - Axis: 3
      AxisName: 'Z Axis'
-     CalibMin: 0
-     CalibCenter: 0
+     CalibMin: 33
+     CalibCenter: 33
      CalibMax: 4095
  - DeviceName: 'Thrustmaster T300RS Racing wheel'
    InstanceGUID: '{9FD1E560-E940-11E5-8003-444553540000}'
