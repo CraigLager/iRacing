@@ -2,6 +2,32 @@
 CalibrationInfo:
  DeviceList:
  - DeviceName: 'FANATEC CSL Elite Pedals LC'
+   InstanceGUID: '{6828DCC0-12C0-11E9-8003-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4090
+   - Axis: 1
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 59
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Z Axis'
+     CalibMin: 11
+     CalibCenter: 33
+     CalibMax: 4095
+ - DeviceName: 'Thrustmaster T300RS Racing Wheel'
+   InstanceGUID: '{D9470FF0-12BE-11E9-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32769
+     CalibMax: 65535
+ - DeviceName: 'FANATEC CSL Elite Pedals LC'
    InstanceGUID: '{252FA5C0-26C2-11E7-8001-444553540000}'
    AxisList:
    - Axis: 0
