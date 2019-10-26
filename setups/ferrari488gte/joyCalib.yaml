@@ -1,6 +1,47 @@
 ---
 CalibrationInfo:
  DeviceList:
+ - DeviceName: 'FANATEC Podium Wheel Base DD1'
+   InstanceGUID: '{031622F0-B952-11E9-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Combined Pedals'
+     CalibMin: 0
+     CalibCenter: 64822
+     CalibMax: 65179
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 2106
+     CalibCenter: 65416
+     CalibMax: 65496
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 1
+     CalibCenter: 32779
+     CalibMax: 65535
+ - DeviceName: 'FANATEC CSL Elite Pedals LC'
+   InstanceGUID: '{72776E70-B951-11E9-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4090
+   - Axis: 1
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 39
+     CalibMax: 65061
+   - Axis: 3
+     AxisName: 'Z Axis'
+     CalibMin: 50
+     CalibCenter: 50
+     CalibMax: 4095
  - DeviceName: 'FANATEC CSL Elite Pedals LC'
    InstanceGUID: '{6828DCC0-12C0-11E9-8003-444553540000}'
    AxisList:
@@ -16,8 +57,8 @@ CalibrationInfo:
      CalibMax: 65535
    - Axis: 3
      AxisName: 'Z Axis'
-     CalibMin: 11
-     CalibCenter: 27
+     CalibMin: 16
+     CalibCenter: 16
      CalibMax: 4095
  - DeviceName: 'Thrustmaster T300RS Racing Wheel'
    InstanceGUID: '{D9470FF0-12BE-11E9-8001-444553540000}'
@@ -25,15 +66,15 @@ CalibrationInfo:
    - Axis: 0
      AxisName: 'X Axis'
      CalibMin: 0
-     CalibCenter: 32788
+     CalibCenter: 32737
      CalibMax: 65535
- - DeviceName: 'Thrustmaster T300RS Racing wheel'
-   InstanceGUID: '{9FD1E560-E940-11E5-8003-444553540000}'
+ - DeviceName: 'Ferrari F1 Wheel Advanced T300'
+   InstanceGUID: '{753318E0-7C36-11E6-8001-444553540000}'
    AxisList:
    - Axis: 0
      AxisName: 'X Axis'
      CalibMin: 0
-     CalibCenter: 32781
+     CalibCenter: 32773
      CalibMax: 65535
  - DeviceName: 'FANATEC CSL Elite Pedals LC'
    InstanceGUID: '{252FA5C0-26C2-11E7-8001-444553540000}'
@@ -50,9 +91,17 @@ CalibrationInfo:
      CalibMax: 65535
    - Axis: 3
      AxisName: 'Z Axis'
-     CalibMin: 0
-     CalibCenter: 0
+     CalibMin: 1594
+     CalibCenter: 1605
      CalibMax: 4095
+ - DeviceName: 'Thrustmaster T300RS Racing wheel'
+   InstanceGUID: '{9FD1E560-E940-11E5-8003-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32781
+     CalibMax: 65535
  - DeviceName: 'FANATEC USB Pedals'
    InstanceGUID: '{ABA7BB00-362E-11E5-8001-444553540000}'
    AxisList:
@@ -71,14 +120,6 @@ CalibrationInfo:
      CalibMin: 0
      CalibCenter: 1023
      CalibMax: 1023
- - DeviceName: 'Ferrari F1 Wheel Advanced T300'
-   InstanceGUID: '{753318E0-7C36-11E6-8001-444553540000}'
-   AxisList:
-   - Axis: 0
-     AxisName: 'X Axis'
-     CalibMin: 0
-     CalibCenter: 32781
-     CalibMax: 65535
  - DeviceName: 'Logitech G27 Racing Wheel USB'
    InstanceGUID: '{58F5EE20-363F-11E5-8009-444553540000}'
    AxisList:

@@ -1,6 +1,29 @@
 ---
 CalibrationInfo:
  DeviceList:
+ - DeviceName: 'FANATEC Podium Wheel Base DD1'
+   InstanceGUID: '{031622F0-B952-11E9-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Combined Pedals'
+     CalibMin: 0
+     CalibCenter: 64109
+     CalibMax: 64287
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 434
+     CalibCenter: 65456
+     CalibMax: 65535
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 72
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 1
+     CalibCenter: 32793
+     CalibMax: 65535
  - DeviceName: 'Thrustmaster T300RS Racing wheel'
    InstanceGUID: '{9FD1E560-E940-11E5-8003-444553540000}'
    AxisList:

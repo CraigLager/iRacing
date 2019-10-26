@@ -1,6 +1,47 @@
 ---
 CalibrationInfo:
  DeviceList:
+ - DeviceName: 'FANATEC Podium Wheel Base DD1'
+   InstanceGUID: '{031622F0-B952-11E9-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Combined Pedals'
+     CalibMin: 0
+     CalibCenter: 64822
+     CalibMax: 65179
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 2106
+     CalibCenter: 65416
+     CalibMax: 65496
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 1
+     CalibCenter: 32779
+     CalibMax: 65535
+ - DeviceName: 'FANATEC CSL Elite Pedals LC'
+   InstanceGUID: '{72776E70-B951-11E9-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4090
+   - Axis: 1
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 39
+     CalibMax: 65061
+   - Axis: 3
+     AxisName: 'Z Axis'
+     CalibMin: 50
+     CalibCenter: 50
+     CalibMax: 4095
  - DeviceName: 'FANATEC CSL Elite Pedals LC'
    InstanceGUID: '{6828DCC0-12C0-11E9-8003-444553540000}'
    AxisList:

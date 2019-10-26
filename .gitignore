@@ -9,6 +9,5 @@ lapfiles
 telemetry
 screenshots
 videos
-setups/*/VRS_*
-setups/*/VRS-*
+setups/**/*.sto
 *.swp

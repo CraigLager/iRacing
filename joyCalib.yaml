@@ -7,13 +7,13 @@ CalibrationInfo:
    - Axis: 0
      AxisName: 'Combined Pedals'
      CalibMin: 0
-     CalibCenter: 65535
-     CalibMax: 65535
+     CalibCenter: 64822
+     CalibMax: 65179
    - Axis: 1
      AxisName: 'Brake'
-     CalibMin: 0
-     CalibCenter: 65496
-     CalibMax: 65535
+     CalibMin: 2106
+     CalibCenter: 65416
+     CalibMax: 65496
    - Axis: 2
      AxisName: 'Accelerator'
      CalibMin: 0
