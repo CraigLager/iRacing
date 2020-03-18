@@ -12,13 +12,13 @@ CalibrationInfo:
    - Axis: 1
      AxisName: 'Brake'
      CalibMin: 0
-     CalibCenter: 65496
+     CalibCenter: 65456
      CalibMax: 65535
    - Axis: 2
      AxisName: 'Accelerator'
      CalibMin: 0
-     CalibCenter: 65535
-     CalibMax: 65535
+     CalibCenter: 65398
+     CalibMax: 65467
    - Axis: 3
      AxisName: 'Wheel Axis'
      CalibMin: 1
